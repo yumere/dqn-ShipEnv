@@ -1,0 +1,3 @@
+[submodule "ShipEnv"]
+	path = ShipEnv
+	url = https://github.com/yumere/ShipEnv.git
